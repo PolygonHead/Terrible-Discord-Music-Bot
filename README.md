@@ -9,3 +9,5 @@ Stuff you need:
 
 Can't be bothered to write too much here because you should not use this.
 This is some absolute Yandere Dev level coding here.
+
+Create a json file with the token, of course. 
